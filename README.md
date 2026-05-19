@@ -2,13 +2,13 @@
 
 Film → software. AI-native product work in TypeScript, plus solo-shipped production sites for real organizations.
 
-The trilogy below — Resonance, Constellation, Ensemble — is a paired build around cross-format media taste. The Middlebury project is solo end-to-end for a real civic-advocacy group with real users.
+The trilogy below Resonance, Constellation, Ensemble, is a paired build around cross-format media taste. The Middlebury project is solo end-to-end for a real civic-advocacy group with real users.
 
 ---
 
 **Next up**
 
-Extending the Resonance backend with an MCP server so Claude and other agentic clients can recommend against a user's actual taste profile — turning the existing recommendation pipeline into a tool agents can call. Evaluation harness in the same repo.
+Extending the Resonance backend with an MCP server so Claude and other agentic clients can recommend against a user's actual taste profile, turning the existing recommendation pipeline into a tool agents can call. Evaluation harness in the same repo.
 
 **Shipped**
 
@@ -21,6 +21,6 @@ Extending the Resonance backend with an MCP server so Claude and other agentic c
 
 **Stack** — TypeScript, React 19, Next.js, Node, Postgres, Firebase, Tailwind, Anthropic Claude API, D3, Liveblocks
 
-**Approach** — On the trilogy I work with Claude as a pair programmer in Claude Code; architectural calls are mine and logged with reasoning in each repo (`decisions.md` in Ensemble, `ARCHITECTURE.md` in Resonance and Constellation). The Middlebury project is the end-to-end solo counterpart — same shipping bar, no AI pair.
+**Approach** — On the trilogy I work with Claude as a pair programmer in Claude Code; architectural calls are mine and logged with reasoning in each repo (`decisions.md` in Ensemble, `ARCHITECTURE.md` in Resonance and Constellation). The Middlebury project is the end-to-end solo counterpart, same shipping bar, no AI pair.
 
 **Reach me** — drubnerw98@gmail.com
